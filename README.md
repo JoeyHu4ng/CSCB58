@@ -1,5 +1,4 @@
-# RocketMan
-
+<h1>RocketMan</h1>
 <p>The project was for UTSC CSCB58W18 final project.</p>
 The presentation video URL:<br>
 TBA<br>
@@ -12,7 +11,7 @@ URL of Dot Runner:<br>
 https://github.com/LukeBi/DotRunner<br>
 <br>
 <br>
-<h2>Credit</h2>
+<h1>Credit</h1>
 Joey Huang<br>
 Kaihua Sun<br>
 Victor Lee<br>
