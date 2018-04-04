@@ -5,14 +5,14 @@ The presentation video URL:<br>
 TBA<br>
 <br>
 <br>
-# Detail
+<h1>Detail</h1>
 <p>We get the inspiration from the game, WeChat Jump.<br>
 Also, we get inspiration from the previous peoject Dot Runner<br></p>
 URL of Dot Runner:<br>
 https://github.com/LukeBi/DotRunner<br>
 <br>
 <br>
-# Credit
+<h2>Credit</h2>
 Joey Huang<br>
 Kaihua Sun<br>
 Victor Lee<br>
