@@ -12,7 +12,7 @@ https://github.com/LukeBi/DotRunner<br>
 <br>
 <br>
 <h1>Credit</h1>
-Joey Huang<br>
-Kaihua Sun<br>
-Victor Lee<br>
+<b>Joey Huang<br></b>
+<b>Kaihua Sun<br></b>
+<b>Victor Lee<br></b>
 
