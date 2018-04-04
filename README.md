@@ -6,7 +6,7 @@ TBA
 <br>
 <br>
 <h2>Detail</h2>
-We get the inspiration from the game, WeChat Jump.<br>
-Also, we get inspiration from the previous peoject Dot Runner<br>
-<p>URL of Dot Runner:<br></p>
+<p>We get the inspiration from the game, WeChat Jump.<br>
+Also, we get inspiration from the previous peoject Dot Runner<br></p>
+URL of Dot Runner:<br>
 https://github.com/LukeBi/DotRunner<br>
