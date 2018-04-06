@@ -1,7 +1,7 @@
 <h1>RocketMan</h1>
 <p>The project was for UTSC CSCB58W18 final project.</p>
 The presentation video URL:<br>
-TBA<br>
+https://youtu.be/Ow5vHelS0y0<br>
 <br>
 <br>
 <h1>Detail</h1>
